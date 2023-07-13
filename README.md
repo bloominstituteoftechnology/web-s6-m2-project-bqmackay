@@ -20,7 +20,7 @@ For this project, you'll build a simple Instagram clone using React. There is a 
 
 This app can be broken down into two main sections that you'll need to implement for this project: the Search Bar and the Posts. 
 
-To complete this project, a Search Bar will be rendered at the top of the page and a Posts component will render an individual Post for every object inside the `dummy-data.js` array. You'll need to set up state to keep track of the posts. You will implement a callback to increase the "likes count" on posts and hand it several levels down into a nested component through props.
+A Search Bar will be rendered at the top of the page, and a Posts component will render an individual Post for every object inside the `dummy-data.js` array. You'll need to set up state to keep track of the posts. You will implement a callback to increase the "likes count" on posts and hand it several levels down into a nested component through props.
 
 Look through the code before you start. There are a lot of files. Not all of them need code added to them. Start in the App.js file and read the instructions there.
 
